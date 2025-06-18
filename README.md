@@ -6,4 +6,4 @@ This is a C++-based CGPA Calculator that:
 - Computes GPA and overall CGPA
 
 ## Author
-Aditya Kant Jha
+Sumit Kumar Sharma
